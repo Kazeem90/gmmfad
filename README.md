@@ -11,8 +11,7 @@ Due to space constraints in the main paper, the figures here provide additional 
 
 ### 1. `extra_figures1.pdf`
 
-- Additional visualizations for gamma-ray burst (GRB) dataset
-- Includes exploratory plots, component-wise loadings, and clustering structure
+- Additional plots providing further insights into the simulation results.  
 
 ### 2. `additional_plots2.pdf`
 
