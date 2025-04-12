@@ -1,7 +1,7 @@
 # Supplementary Materials for "A hybrid mixture approach for clustering and characterizing cancer data"
 
 This repository contains supplementary figures and plots referenced in the manuscript titled\
-**"A hybrid mixture approach for clustering and characterizing cancer data"** by *Kazeem Kareem* and *Fan Dai*, submitted to [Journal Name].
+**"A hybrid mixture approach for clustering and characterizing cancer data"** by *Kazeem Kareem* and *Fan Dai*, submitted to Bioinformatics.
 
 Due to space constraints in the main paper, the figures here provide additional insight into model performance and analyses.
 
