@@ -13,17 +13,13 @@ Due to space constraints in the main paper, the figures here provide additional 
 
 - Additional plots providing further insights into the simulation and real data results.  
 
-### 2. `additional_plots2.pdf`
+### 2. `main`
 
-- Comparison of competing models using Adjusted Rand Index (ARI)
-- Boxplots and violin plots across multiple parameter settings
+- contains all the source codes for the algorithm and simulations in the paper.
 
-### 3. `diagnostics3.pdf`
 
-- Frobenius norm diagnostics for covariance recovery
-- Results across varying factor structures and sample sizes
 
----
+
 
 ## 🔗 How to Cite
 
