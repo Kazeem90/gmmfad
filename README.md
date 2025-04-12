@@ -15,9 +15,17 @@ Due to space constraints in the main paper, the figures here provide additional 
 
 ### 2. `main`
 
-- contains all the source codes for the algorithm and simulations in the paper.
-
-
+- Contains all the source codes for the algorithm and simulations in the paper.
+    - `breast_cancer_data_constq_variedq.R`-- contans code for fitting GMMFAD and GMMFADq on the breast cancer dataset.
+    - `em4gmm.R` -- This is the primary source code, containing the functions GMMFAD  and other relevant functions.
+    - `gmfad_emmix_emEM_p350_sim_time.R`-- Code for the simulation setup for comparing the time speedup, frobsenius errors, and ARI for GMMFAD and EMMIX algorithms for n=p=150. 
+    - `gmfad_emmix_emEM_sim_time.R`-- Code for the simulation setup for comparing the time speedup, frobsenius errors, and ARI for GMMFAD and EMMIX algorithms for n=300, p=10. 
+    - `gmfad_qq` -- This is the primary source code, containing the functions GMMFADq, and other relevant functions.
+    - `lymphoma gene data (1).R`--  Code for fitting the lymphoma data with GMMFADq
+    - `sim_BIC_varied_q.R` -- Code for the simulation setup for comparing the correctness of model selection by GMMFADq for data parameters n=300, p=10. 
+    - `sim_gmfad_emmix_BIC_2.R`-- Code for the simulation setup for comparing the correctness of model selection by GMMFAD for data parameters n=300, p=10. 
+    - `wdbc.data` -- Wisconsin breast cancer (Diagnostic) data with label.
+    - `wdbc.names` -- Information related to the features of the Wisconsin breast cancer data.
 
 
 
