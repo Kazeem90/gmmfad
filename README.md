@@ -11,7 +11,7 @@ Due to space constraints in the main paper, the figures here provide additional 
 
 ### 1. `Supplementary_materials_for_gmmfad_paper.pdf`
 
-- Additional plots providing further insights into the simulation and real data results.  
+- Additional plots providing further insights into the simulation and real data results.  It also include codes for fitting the real datasets. 
 
 ### 2. `main`
 
