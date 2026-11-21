@@ -4,8 +4,8 @@
 ###########################################################
 ###################################################################################
 ## simulation with gmm factor analysers
-source("~/Desktop/Dimensionality reduction research/codes/em4gmm.R")
-source("~/Desktop/Dimensionality reduction research/codes/gmfad_qq.R")
+source("em4gmm.R")
+source("gmfad_qq.R")
 
 library(doParallel)
 library(EMMIXmfa)
