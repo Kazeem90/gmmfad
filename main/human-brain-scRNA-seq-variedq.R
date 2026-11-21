@@ -45,7 +45,7 @@ results <- data.frame(
   niter = numeric(totals)
 ) 
 
-tol <- 1e-6
+tol <- 1e-12
 
 idx <- 1
 
