@@ -1,7 +1,7 @@
 # Supplementary Materials for "A hybrid mixture approach for clustering and characterizing biomedical data"
 
 This repository contains source code for:\
-Kareem KA, Dai F (2026) A hybrid mixture approach for clustering and characterizing biomedical data. PLoS ComputBiol 22(11): e1014974. [doi:10.1371/journal.pcbi.1014974](https://doi.org/10.1371/journal.pcbi.1014974)
+Kareem KA, Dai F (2026) A hybrid mixture approach for clustering and characterizing biomedical data. PLoS Comput Biol 22(11): e1014974. [doi:10.1371/journal.pcbi.1014974](https://doi.org/10.1371/journal.pcbi.1014974)
 
 ---
 
