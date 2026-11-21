@@ -3,7 +3,7 @@
 ### BIC Simulations with gmm factor analyzers: gmm.fad vs EMMIXmfa: Optimal K detection rate. 
 ###########################################################
 ## simulation with gmm factor analysers
-source("~/Desktop/Dimensionality reduction research/codes/em4gmm.R")
+source("em4gmm.R")
 
 library(doParallel)
 library(EMMIXmfa)
