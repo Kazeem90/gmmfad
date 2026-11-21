@@ -1,4 +1,4 @@
-source("~/Desktop/Dimensionality reduction research/codes/em4gmm.R")
+source("em4gmm.R")
 
 library(clue)
 library(MixSim)
