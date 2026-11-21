@@ -1,4 +1,4 @@
-source("~/Desktop/gmfad paper/gmfad_qq.R")
+source("gmfad_qq.R")
 ## ----------------------------------------------------------------------------------
 library(doParallel)
 library(MixSim) 
@@ -7,7 +7,7 @@ library(radviz3d)
 library(cluster)
 
 ## load dataset
-load("~/Desktop/gmfad paper/darmanis-adult-neuron-astrocyte-200HVG-GDT.rda")
+load("darmanis-adult-neuron-astrocyte-200HVG-GDT.rda")
 
 type <- darmanis_adult_2class_df$cell_type
 true_cl <- as.integer(type)
