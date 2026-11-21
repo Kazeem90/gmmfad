@@ -1,6 +1,6 @@
 # The Lymphoma dataset
-source("~/Desktop/Dimensionality reduction research/codes/em4gmm.R")
-#install.packages("spls")
+source("em4gmm.R")
+
 library(spls)
 library(doParallel)
 library(MixSim) # for ARI  
