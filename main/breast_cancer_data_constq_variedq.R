@@ -1,6 +1,4 @@
-source("~/Desktop/Dimensionality reduction research/codes/em4gmm.R")
-#devtools::install_github("fanne-stat/radviz3d")
-#source("//homes.mtu.edu/home/Desktop/Dimensionality reduction research/em4gmm.R")
+source("em4gmm.R")
 
 library(MixSim) # for ARI
 print(Sys.time())
