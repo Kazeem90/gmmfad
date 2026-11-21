@@ -38,7 +38,6 @@ For questions, suggestions, or collaboration inquiries, feel free to reach out:
 
 **Kazeem Kareem**\
 PhD, Statistics\
-Michigan Technological University\
 Email: kareemkazeem718\@gmail.com
 
 ---
